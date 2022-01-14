@@ -1,0 +1,22 @@
+{
+  "name": "easy-readme",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "npm install",
+  "scripts": {
+    "test": "npm install <pkg>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bglo17/Easy-Readme.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "BJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bglo17/Easy-Readme/issues"
+  },
+  "homepage": "https://github.com/bglo17/Easy-Readme#readme"
+}
