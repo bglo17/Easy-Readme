@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bglo17/Easy-Readme/issues"
   },
-  "homepage": "https://github.com/bglo17/Easy-Readme#readme"
+  "homepage": "https://github.com/bglo17/Easy-Readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
